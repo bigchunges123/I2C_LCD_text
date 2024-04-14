@@ -1,1 +1,1 @@
-test
+(alarm) get beeped 12345678
